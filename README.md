@@ -20,7 +20,7 @@ Queens Go is a two-player strategy game played on an 8x8 chess-like board. The g
 
 ```bash
 # Clone the repository
-git clone <git@github.com:taypyc/queensGo.git>
+git clone git@github.com:taypyc/queensGo.git
 cd queensGo
 
 # Run the game
