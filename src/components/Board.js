@@ -94,7 +94,7 @@ class Board {
    */
   print(redQueenPosition, blueQueenPosition) {
     console.log('Current Board State:');
-    console.log('  0 1 2 3 4 5 6 7');
+    console.log('   0  1  2  3  4  5  6  7');
     for (let row = 0; row < BOARD_SIZE; row++) {
       let rowStr = row + ' ';
       for (let col = 0; col < BOARD_SIZE; col++) {
